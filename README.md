@@ -51,13 +51,19 @@ streamlit run app.py
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome.
-For major changes, please open an issue first to discuss what you would like to change.
-
----
 
 ## ⭐ Support
 
 If you find this project useful, consider giving it a star.
+
+
+---
+
+## Notice:
+
+The tmdb_5000_credits.csv and similarity.pkl files are not uploaded due to their large size.
+
+#### Sorry for Inconvenience.
+
+---
+
