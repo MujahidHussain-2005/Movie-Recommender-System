@@ -29,14 +29,8 @@ The system helps users discover movies by analyzing similarities between differe
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/movie-recommender-system.git
-cd movie-recommender-system
-```
-
-Install required dependencies
-
-```bash
-pip install -r requirements.txt
+git clone https://github.com/MujahidHussain-2005/Movie-Recommender-System.git
+cd Movie-Recommender-System
 ```
 
 Run the Streamlit application
